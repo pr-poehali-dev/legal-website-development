@@ -152,14 +152,10 @@ const Index = () => {
 
             <Card className="hover:shadow-lg transition-shadow">
               <CardHeader>
-                <Icon
-                  name="Building"
-                  size={48}
-                  className="text-blue-900 mb-4"
-                />
-                <CardTitle>Корпоративное право</CardTitle>
+                <Icon name="FileKey" size={48} className="text-blue-900 mb-4" />
+                <CardTitle>Наследственные дела</CardTitle>
                 <CardDescription>
-                  Регистрация, сопровождение бизнеса
+                  Оформление наследства, споры между наследниками
                 </CardDescription>
               </CardHeader>
               <CardContent>
